@@ -26,7 +26,7 @@
 
 
 (defn what-kind? []
-  "cruel no more")
+  "cruel no more with a live EDIT")
 
 (defn hello [])
 
