@@ -1,1 +1,2 @@
+^{:ring-handler hello-world.server/handler}
 {:main hello-world.core}
