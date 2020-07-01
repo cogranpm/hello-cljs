@@ -5,6 +5,8 @@
 
 
 ;; -- Domino 4 - Query  -------------------------------------------------------
+;; these provide data whenever you see a subscribe call from elsewhere
+;; might be in the views
 
 (rf/reg-sub
  :time
