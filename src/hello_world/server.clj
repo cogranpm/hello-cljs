@@ -12,6 +12,7 @@
   </head>
   <body>
     <div id=\"app\"></div>
+<h1> hi i am here </h1>
     <script src=\"/cljs-out/dev-main.js\" type=\"text/javascript\"></script>
   </body>
 </html>")
