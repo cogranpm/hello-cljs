@@ -1,0 +1,1 @@
+lein fig -- -b dev -r

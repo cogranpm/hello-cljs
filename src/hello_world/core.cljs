@@ -39,8 +39,6 @@
 (defonce do-timer (js/setInterval dispatch-timer-event 1000))
 
 
-
-
 ;; -- Entry Point -------------------------------------------------------------
 
 (defn render
